@@ -1,54 +1,85 @@
 
-<!-- 🌟 ANIMATED HEADER -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00C9FF,100:92FE9D&height=220&section=header&text=Shivansee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00C9FF,100:92FE9D&height=220&section=header&text=Shivansee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17" width="100%" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<h1 align="center">Hi 👋, I'm Shivansee</h1>
+
 <h3 align="center">
-  ✨ Developer | Learner | Tech Enthusiast ✨
+  💻 Software Development | Problem Solving | Building Projects
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Always+Learning+New+Things;Building+My+Developer+Journey;Dream+Big+%7C+Code+Big+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Development+Enthusiast;Frontend+%26+Backend+Development;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
 </p>
 
-<!-- PROFILE VISITORS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivansee987&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shivansee987&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 👋 Hi, I'm **Shivansee**
-- 💻 Interested in technology and software development.
-- 🌱 Always learning and exploring new technologies.
-- 🚀 Love building projects and discovering new ideas.
-- 🎯 Focused on personal growth and development.
-- ✨ Believe in learning something new every day.
+- 👋 Hello! I'm **Shivansee**.
+- 💻 Interested in Software Development.
+- 🌱 Continuously learning and exploring new technologies.
+- 🚀 Interested in Frontend and Backend Development.
+- 🧠 Enjoy solving problems and building applications.
+- 🎯 My goal is to become a skilled Software Developer.
+- ✨ Believe in learning, consistency and creativity.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,js,git,github,vscode&perline=8" />
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivansee987&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansee987&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivansee987&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansee987&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shivansee987&theme=tokyonight&hide_border=true" />
@@ -59,17 +90,21 @@
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivansee987/Shivansee987/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Shivansee987/Shivansee987/output/snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <p align="center">
   <a href="https://github.com/Shivansee987?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0ea5e9?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+<p align="center">
+  Always working towards building something meaningful! ✨
 </p>
 
 ---
@@ -87,17 +122,23 @@
 
 ---
 
-## 💫 My Developer Motto
+## 💡 My Developer Philosophy
 
 <h3 align="center">
-  "Dream it. Build it. Make it happen." 🚀
+  "Think. Code. Create. Innovate." 🚀
 </h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  💙 Keep Learning. Keep Building. Keep Growing.
 </p>
 
-<!-- FOOTER -->
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! ⭐
+</p>
+
+<!-- ================= FOOTER ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:090979&height=120&section=footer" width="100%" />
 </p>
+
