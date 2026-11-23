@@ -55,3 +55,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=100&section=footer" width="100%" />
 </p>
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivansee987/Shivansee987/output/snake.svg" alt="Contribution Snake Animation" />
+</p>
