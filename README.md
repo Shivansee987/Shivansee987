@@ -1,5 +1,5 @@
 
-<!-- ============ ANIMATED HEADER ============ -->
+<!-- =============== ANIMATED HEADER =============== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00C9FF,100:92FE9D&height=220&section=header&text=Shivansee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17" width="100%" />
@@ -23,11 +23,11 @@
 
 ## 👩‍💻 About Me
 
-- 👋 Hello! I'm **Shivansee**.
+- 👋 Hi, I'm **Shivansee**.
 - 💻 Passionate about Software Development.
 - 🌱 Always learning and exploring new technologies.
 - 🚀 Interested in Frontend and Backend Development.
-- 🧠 Love solving problems and building applications.
+- 🧠 Enjoy solving problems and building applications.
 - 🎯 Working towards becoming a skilled Software Developer.
 - ✨ Believe in consistency, creativity and continuous learning.
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -69,33 +69,43 @@
 
 ## 🚀 Featured Projects
 
-### 1. Projectpulse
+### 1. ⚡ Projectpulse
+
 <p>
   <a href="https://github.com/Shivansee987/Projectpulse">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-A JavaScript-based project. Explore the repository to see its implementation.
 
-### 2. NEP HARYANA
+A JavaScript-based project. Explore the repository to discover its features and implementation.
+
+### 2. 📚 NEP HARYANA
+
 <p>
   <a href="https://github.com/Shivansee987/NEP_HARYANA">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 A Python-based project related to NEP Haryana.
 
-### 3. Targetss
+### 3. 🎯 Targetss
+
 <p>
   <a href="https://github.com/Shivansee987/Targetss">
-    <img src="https://img.shields.io/badge/Private_Project-555555?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUBLIC-2EA44F?style=for-the-badge" />
 </p>
-A six-month preparation roadmap project. Currently maintained as a private repository.
+
+A six-month preparation roadmap website for SSC Tech (Women) and SSB preparation.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivansee987&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -118,7 +128,7 @@ A six-month preparation roadmap project. Currently maintained as a private repos
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivansee987/Shivansee987/output/snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Shivansee987/Shivansee987/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
@@ -151,7 +161,7 @@ A six-month preparation roadmap project. Currently maintained as a private repos
   ⭐ Thanks for visiting my GitHub profile! ⭐
 </p>
 
-<!-- ============ FOOTER ============ -->
+<!-- =============== FOOTER =============== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:090979&height=120&section=footer" width="100%" />
